@@ -9,8 +9,8 @@
 $copyright_owner = "Aditya Putra Bramasta";
 $copyright_year = date("Y");
 $license = "Semua hak dilindungi";
-$website = "www.example.com"; // Ganti dengan website Anda
-$email = "contact@example.com"; // Ganti dengan email Anda
+$website = "www.bramasta.my.id"; // Ganti dengan website Anda
+$email = "aditiyaputra8674@gmail.com"; // Ganti dengan email Anda
 
 // Fungsi untuk menampilkan badge hak cipta
 function displayCopyrightBadge($owner, $year, $license) {
